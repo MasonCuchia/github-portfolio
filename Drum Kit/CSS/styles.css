@@ -1,0 +1,44 @@
+
+body {
+    background-color: crimson;
+}
+
+#title {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10svh;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
+
+img {
+    position: fixed;
+    top: 50%;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+    /* background-color: black; */
+}
+
+#tom {
+    width: 11rem;
+    left: 15%;
+}
+
+#bass {
+    width: 11rem;
+    left: 35%;
+}
+
+#crash {
+    width: 11rem;
+    left: 55%;
+}
+
+#clap {
+    width: 11rem;
+    left: 75%;
+}

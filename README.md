@@ -22,7 +22,16 @@ https://github.com/MasonCuchia/github-portfolio/blob/main/Woods_Of_Shadows.py
 #### Link 
 https://github.com/MasonCuchia/github-portfolio/blob/main/Roulette-Game/Roulette.py
 
- 
+### Project 3
+
+#### Description:
+ This project is a basic drum kit using HTML, CSS, and JavaScript. When you click on the images they make the corresponding sounds. I made this project to showcase my basic skills using these three languages.
+
+#### Link 
+
+
+ #### Preview
+![Alt text](image.png)
 
 ## Contact Me 
 
