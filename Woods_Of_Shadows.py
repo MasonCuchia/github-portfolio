@@ -1,5 +1,5 @@
 # Mason Cuchia 12/9/23
-# This is a text based adventure game called The Woods of Shadows
+# This is a text based adventure game called The Woods of Shadows, coded using python
 # The main character's name is Adrian and he is trying to find the magic book at the center
 # of the forest to cure the diease that is spreading through out the land
 
@@ -878,7 +878,7 @@ def lockGame(level):
    elif level == 2:
        guessesLeft = 3
        print("Congratulations! The first lock is picked!")
-       print("You will now only have 3 guess to find the number.\n")
+       print("You will now only have 3 guess to find the second number.\n")
    elif level == 3:
        print("Congratulations! The second lock is picked!\n")
        time.sleep(1)
@@ -936,8 +936,8 @@ def pickLock():
    os.system("cls")
    title()
    print("You will have a certain number of guesses to find the mystery digit.\nThe digit will be between 1-9.")
-   print("Once you pick both locks correctly then you will be allowed inside.")
-   print("If you do not open the lock with in 3 tries the tree monster will eat you.")
+   print("There will be 2 locks. Once you pick both locks correctly, then you will be allowed inside.")
+   print("If you do not open the lock within 3 tries the tree monster will eat you.")
 
 
    print("\nAre you ready? (y=yes/n=no)")
