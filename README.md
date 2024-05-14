@@ -1,7 +1,7 @@
 # Mason Cuchia's Portfolio
  
 ## About Me
-I started off my college career at Eastern New Mexico University, where I played division 2 baseball my freshman year. After that I transfered to Texas State University for my sophmore year. There I will pursue a degree in Computer Science and I am planning to graduate in 2027.  
+I started off my college career at Eastern New Mexico University, where I played division 2 baseball my freshman year. After that I transfered to Texas State University where I will attend my upcoming sophmore year. There I will pursue a degree in Computer Science and I am planning to graduate in 2027.  
 
 
 ## Projects
