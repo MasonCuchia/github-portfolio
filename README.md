@@ -17,14 +17,12 @@ https://github.com/MasonCuchia/github-portfolio/blob/main/Woods_Of_Shadows.py
 ### Project 2
 
 #### Description:
- This project is a copy of the game "Buckshot Roulette" I made using python. I made this game after I saw YouTube videos of people playing the game and I wanted to see if I could recreate it using python.
+ This project is a copy of the game "Buckshot Roulette" I made using python. I made this project after I saw YouTube videos of people playing the game online and I wanted to see if I could recreate on my own it using python.
 
 #### Link 
 https://github.com/MasonCuchia/github-portfolio/blob/main/Roulette-Game/Roulette.py
 
  
-
-### All of these projects are for fun and are in attempt to help me get better at coding
 
 ## Contact Me 
 
