@@ -28,7 +28,7 @@ https://github.com/MasonCuchia/github-portfolio/blob/main/Roulette-Game/Roulette
  This project is a basic drum kit using HTML, CSS, and JavaScript. When you click on the images they make the corresponding sounds. I made this project to showcase my basic skills using these three languages.
 
 #### Link 
-
+https://github.com/MasonCuchia/github-portfolio/tree/main/Drum%20Kit
 
  #### Preview
 ![Alt text](image.png)
